@@ -1,4 +1,4 @@
-package com.burton.concurrency;
+package com.thdays.concurrency;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
